@@ -23,3 +23,4 @@ Disclaimer: Use at your own discretion.
 - Detailed Explaination : [Medium](https://medium.com/@pd.skant/stalk-someone-on-whatsapp-educational-purpose-only-370c91f09eb8?sk=d5013cc89c3625bc3303bfdaefbea4ce), [YouTube Demo](https://youtu.be/tl1rO5_fUA4) 
 
 - Make sure you give this project a star if you liked this project and want to see more.
+<a href="javascript:(function(){ window.open('http://www.test.com/'); })();"> hello <a/>

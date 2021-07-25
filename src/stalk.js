@@ -22,14 +22,6 @@ var userCounter = 0;
 var buttonAdded = false;
 var interval;
 
-function reinitialise() {
-    minimumTime = -100
-    onlineData = {};
-    previousKnownStatus = {};
-    UNKNOWN = "UNKNOWN";
-    offlineData = {};
-    userCounter = 0;
-}
 
 // Register a change of status for user with name n. Also print to console when online status changes
 function print_to_log(name, status) {

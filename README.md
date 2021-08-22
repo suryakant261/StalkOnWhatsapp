@@ -18,7 +18,7 @@ This also reports people who were online together for maximum time. Happy Stalki
 Disclaimer: Use at your own discretion.
 
 ## Credits
-- For any help with this feel free to reach out to me on : [LinkedIn](https://www.linkedin.com/in/suryakant-pandey/), [Instagram](https://www.instagram.com/sk._.pandey/)
+- For any help with this feel free to reach out to me on : [LinkedIn](https://www.linkedin.com/in/suryakant-pandey/), [Instagram](https://www.instagram.com/suryakant_._pandey/)
 
 - Detailed Explaination : [Medium](https://medium.com/@pd.skant/stalk-someone-on-whatsapp-educational-purpose-only-370c91f09eb8?sk=d5013cc89c3625bc3303bfdaefbea4ce), [YouTube Demo](https://youtu.be/tl1rO5_fUA4) 
 
